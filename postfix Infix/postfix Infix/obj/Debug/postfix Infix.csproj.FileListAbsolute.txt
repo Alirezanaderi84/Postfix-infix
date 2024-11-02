@@ -1,0 +1,10 @@
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\bin\Debug\postfix Infix.exe.config
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\bin\Debug\postfix Infix.exe
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\bin\Debug\postfix Infix.pdb
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix Infix.csproj.AssemblyReference.cache
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix_Infix.Form1.resources
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix_Infix.Properties.Resources.resources
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix Infix.csproj.GenerateResource.cache
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix Infix.csproj.CoreCompileInputs.cache
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix Infix.exe
+C:\Users\ARA\source\repos\postfix Infix\postfix Infix\obj\Debug\postfix Infix.pdb
